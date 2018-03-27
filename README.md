@@ -1,4 +1,4 @@
-# ESP8266 USB programmer piggyback board
+# ESP-01 USB programmer piggyback board
 A small board that piggybacks on an ESP-01 module, and makes it easier for you to program the ESP8266 via a [USB-to-Serial board](https://i.imgur.com/NQs8db6.jpg).
 
 ![piggyboard](https://i.imgur.com/TKHBqHe.jpg)
