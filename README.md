@@ -12,7 +12,6 @@ If you want to use these adaptors, you would have to solder the connection yours
 My solution to this is this little board, that will sit between the ESP-01 and the USB-to-Serial board. Using the jumper, one can switch between programming and normal mode easily without soldering any pins together.
 
 ![piggyboard-front](https://i.imgur.com/hTqsSaa.png)
-
 ![piggyboard-back](https://i.imgur.com/F8ppUlS.png)
 
 ## Components
